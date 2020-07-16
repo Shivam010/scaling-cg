@@ -1,10 +1,7 @@
 # scaling-cg
 Scaling the crispyness with the giggles of togetherness.
 
-Well now crispyness continues, with the togetherness of crispy-giggle in v1.1.1
-All because of this concept: https://blog.golang.org/v2-go-modules
-
-But still misses v2.0.0
+And the real breakthrough is here in form of v2.1.0, in even more powerful togetherness.
 
 Follow at
 [![@010Shivam](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/010Shivam)
